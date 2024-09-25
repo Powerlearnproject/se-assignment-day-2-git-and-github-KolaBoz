@@ -5,6 +5,20 @@
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 
+Key steps:
+
+1. Create a GitHub account.
+2. Click "New repository".
+3. Choose repository name, description, and visibility (public/private).
+4. Initialize repository with README, .gitignore, and license (optional).
+5. Set up repository structure and permissions.
+
+Important decisions:
+
+1. Repository name and description.
+2. Visibility (public/private).
+3. License and copyright information.
+
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
